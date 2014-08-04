@@ -1,5 +1,5 @@
 {
-    "results": {
+    "ApplicationSettings": {
         "is_app_disabled": false,
         "update_nag_enabled": true,
         "production_version_number": 1,
