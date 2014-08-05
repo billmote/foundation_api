@@ -1,6 +1,6 @@
 {
     "results": {
-        "is_app_disabled": false,
+        "is_app_disabled": true,
         "update_nag_enabled": true,
         "production_version_number": 1,
         "low_water_mark_version_number": 1,
