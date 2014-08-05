@@ -1,8 +1,8 @@
 {
     "results": {
         "is_app_disabled": false,
-        "update_nag_enabled": false,
-        "production_version_number": 2,
+        "update_nag_enabled": true,
+        "production_version_number": 1,
         "low_water_mark_version_number": 1,
         "killswitch_message": "Testing my p33ps.  Go outside and play.",
         "mandatory_update_message": "A mandatory update is required in order for you to continue using this application.  Please forgive our mess.",
