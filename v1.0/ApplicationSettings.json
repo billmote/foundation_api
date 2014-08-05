@@ -1,7 +1,7 @@
 {
     "results": {
         "is_app_disabled": false,
-        "update_nag_enabled": true,
+        "update_nag_enabled": false,
         "production_version_number": 2,
         "low_water_mark_version_number": 1,
         "killswitch_message": "Testing my p33ps.  Go outside and play.",
