@@ -1,6 +1,6 @@
 {
     "is_app_disabled": false,
-    "is_update_nag_enabled": true,
+    "is_update_nag_enabled": false,
     "production_version_number": 3,
     "low_watermark_version_number": 2,
     "kill_switch_message_text": "Testing my p33ps.  Go outside and play.",
