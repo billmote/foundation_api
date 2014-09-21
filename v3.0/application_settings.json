@@ -6,7 +6,7 @@
     "kill_switch_message_text": "Testing my p33ps.  Go outside and play.",
     "mandatory_update_message_text": "A mandatory update is required in order for you to continue using this application.  Please forgive our mess.",
     "message_of_the_day_title": "Message from Bill",
-    "message_of_the_day_text": "Hope you're having a great day!",
+    "message_of_the_day_text": "Code.  Every.  Day.",
     "privacy_policy_text": "We'll keep your stuff private.",
     "terms_of_use_text": "Use our stuff in the way it was intended please.",
     "app_settings_url": "http://someurl.com",
@@ -14,12 +14,16 @@
     "motd_frequency": 86400000,
     "versions": [
         {
+            "version_code": 1,
+            "changes": "Added message history.<br/>Showing/Hiding message history w/preference toggle."
+        },
+        {
             "version_code": 2,
-            "changes": "some feature"
+            "changes": "Human readable dates on messages in history list.<br/>Reuse text from previous message."
         },
         {
             "version_code": 3,
-            "changes": "some other feature"
+            "changes": "Pressed states for the Group List.<br/>Haptic feedback on touches.<br/>Animations in key parts of the app."
         }
     ]
 }
