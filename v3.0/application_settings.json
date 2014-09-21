@@ -11,7 +11,7 @@
     "terms_of_use_text": "Use our stuff in the way it was intended please.",
     "app_settings_url": "http://someurl.com",
     "contact_email": "support@android-fu.com",
-    "motd_frequency": -1,
+    "motd_frequency": 0,
     "versions": [
         {
             "version_code": 1,
