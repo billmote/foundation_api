@@ -19,23 +19,23 @@
         },
         {
             "version_code": 2,
-            "changes": "* Human readable dates on messages in history list.<br/>* Reuse text from previous message.<br/>"
+            "changes": "BUILD 2:<br/>* Human readable dates on messages in history list.<br/>* Reuse text from previous message.<br/>"
         },
         {
             "version_code": 3,
-            "changes": "* Pressed states for the Group List.<br/>* Haptic feedback on touches.<br/>* Animations in key parts of the app.<br/>"
+            "changes": "BUILD 3:<br/>* Pressed states for the Group List.<br/>* Haptic feedback on touches.<br/>* Animations in key parts of the app.<br/>"
         },
         {
             "version_code": 4,
-            "changes": "* Significant state bug in SplashActivity corrected.<br/>* List of updates displayed in update dialog.<br/>* Fixed Play Store URLs.<br/>"
+            "changes": "BUILD 4:<br/>* Significant state bug in SplashActivity corrected.<br/>* List of updates displayed in update dialog.<br/>* Fixed Play Store URLs.<br/>"
         },
         {
             "version_code": 5,
-            "changes": "* Added sound on send with enable/disable preference.<br/>* Added button check to avoid SMS flooding.<br/>"
+            "changes": "BUILD 5:<br/>* Added sound on send with enable/disable preference.<br/>* Added button check to avoid SMS flooding.<br/>"
         },
         {
             "version_code": 6,
-            "changes": "* Handles text sharing intents.<br/>"
+            "changes": "BUILD 6:<br/>* Handles text sharing intents.<br/>"
         }
     ]
 }
