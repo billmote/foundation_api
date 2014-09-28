@@ -1,7 +1,7 @@
 {
     "is_app_disabled": false,
     "is_update_nag_enabled": true,
-    "production_version_number": 5,
+    "production_version_number": 6,
     "low_watermark_version_number": 4,
     "kill_switch_message_text": "Testing my p33ps.  Go outside and play.",
     "mandatory_update_message_text": "A mandatory update is required in order for you to continue using this application.  Please forgive our mess.",
@@ -15,23 +15,27 @@
     "versions": [
         {
             "version_code": 1,
-            "changes": "Added message history.<br/>Showing/Hiding message history w/preference toggle."
+            "changes": "* Added message history.<br/>* Showing/Hiding message history w/preference toggle.<br/>"
         },
         {
             "version_code": 2,
-            "changes": "Human readable dates on messages in history list.<br/>Reuse text from previous message."
+            "changes": "* Human readable dates on messages in history list.<br/>* Reuse text from previous message.<br/>"
         },
         {
             "version_code": 3,
-            "changes": "Pressed states for the Group List.<br/>Haptic feedback on touches.<br/>Animations in key parts of the app."
+            "changes": "* Pressed states for the Group List.<br/>* Haptic feedback on touches.<br/>* Animations in key parts of the app.<br/>"
         },
         {
             "version_code": 4,
-            "changes": "Significant state bug in SplashActivity corrected.<br/>List of updates displayed in update dialog.<br/>Fixed Play Store URLs."
+            "changes": "* Significant state bug in SplashActivity corrected.<br/>* List of updates displayed in update dialog.<br/>* Fixed Play Store URLs.<br/>"
         },
         {
             "version_code": 5,
-            "changes": "Added sound on send with enable/disable preference.<br/>Added button check to avoid SMS flooding."
+            "changes": "* Added sound on send with enable/disable preference.<br/>* Added button check to avoid SMS flooding.<br/>"
+        },
+        {
+            "version_code": 6,
+            "changes": "* Handles text sharing intents.<br/>"
         }
     ]
 }
